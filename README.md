@@ -1,3 +1,3 @@
 # hello-world
-Es un proyecto de pruba
+Es un proyecto de prueba
 //It´s perfect
